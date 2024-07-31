@@ -21,8 +21,8 @@ Here are some ideas to get you started:
   </p>
 </div>
 
-- ⚒️ I'm currently working as a **Senior Software Engineer**
-- 🌱 I’m currently learning advanced **React** skills and **System Design**
+- ⚒️ I'm currently working as a **Senior Software Engineer**.
+- 🌱 I’m currently learning advanced **React** skills and **System Design**.
 - 😀 I like to play tennis, code, cook, and go to the gym in my free time.
 
 ### Languages and Tools
