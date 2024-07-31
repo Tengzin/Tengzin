@@ -1,5 +1,5 @@
 ## Hello there 👋
-
+![Banner](https://raw.githubusercontent.com/Tengzin/Tengzin/main/pcPic.jpg)
 <!--
 **Tengzin/Tengzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
