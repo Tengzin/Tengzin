@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 -->
 
 #### I love beautiful, simple UI and clean code.
+
+- ⚒️ I'm currently working as a **Senior Software Engineer**
+- 🌱 I’m currently learning advanced **React** skills and **System Design**
+- 😀 I like to play tennis, code, cook, and go to the gym in my free time.
+- 
