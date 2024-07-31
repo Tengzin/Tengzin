@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/Tengzin/Tengzin/main/header.png)
+![Banner](https://raw.githubusercontent.com/Tengzin/Tengzin/72c2193b4ef66c3a29e8299a719386faa1cfb1bc/header.png)
 <!--
 **Tengzin/Tengzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
