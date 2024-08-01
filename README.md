@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/Tengzin/Tengzin/72c2193b4ef66c3a29e8299a719386faa1cfb1bc/header.png)
+![Banner](https://raw.githubusercontent.com/Tengzin/Tengzin/main/fancyHeaderAndrew1000.png)
 
 <!--
 
